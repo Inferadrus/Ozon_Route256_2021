@@ -1,4 +1,4 @@
-# Balashov Dima. Ozon-Route256: C#
+# Ozon-Route256: C#
 
 Запуск docker-compose:\
 docker-compose up -d --build
